@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+sentence-transformers
+torch
+transformers
+chromadb
+weaviate-client
+pydantic
